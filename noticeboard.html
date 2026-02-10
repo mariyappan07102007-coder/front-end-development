@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Sports Meet Notice Board</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            background: #f4f4f4;
+        }
+
+        header {
+            background: #0277bd;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+
+        .container {
+            display: flex;
+            gap: 15px;
+            padding: 15px;
+        }
+
+        .col {
+            flex: 1;
+            background: white;
+            padding: 12px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #0277bd;
+            font-size: 18px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        h3 {
+            margin: 5px 0;
+            font-size: 15px;
+            color: #01579b;
+        }
+
+        p {
+            margin: 3px 0;
+            font-size: 13px;
+        }
+
+        @media(max-width: 800px) {
+            .container {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Annual Sports Meet 2026</h1>
+    </header>
+
+    <div class="container">
+
+        <div class="col">
+            <h2>Events</h2>
+            <h3>100m Race</h3>
+            <p>20 Feb • 10 AM</p>
+
+            <h3>Long Jump</h3>
+            <p>20 Feb • 12 PM</p>
+
+            <h3>Football Match</h3>
+            <p>21 Feb • 3 PM</p>
+        </div>
+
+        <div class="col">
+            <h2>Rules</h2>
+            <p>• Register before 15 Feb</p>
+            <p>• Sports shoes required</p>
+            <p>• ID card mandatory</p>
+        </div>
+
+        <div class="col">
+            <h2>Notices</h2>
+            <p>• Practice: 18 Feb, 4 PM</p>
+            <p>• Medical check-up: 19 Feb</p>
+            <p>• Closing ceremony: 21 Feb, 6 PM</p>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
