@@ -14,6 +14,9 @@ I am Mariyappan from I-BCA-A
 
    Preview: <img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/632ad43f-e2cb-4981-8761-f48ddcee436f" />
 
+5.Navigation Bar with Dropdown -  https://mariyappan07102007-coder.github.io/front-end-development/navigationbar.html
+
+   Preview: <img width="1919" height="1123" alt="image" src="https://github.com/user-attachments/assets/52b9565f-5623-43fe-9273-8fd63ba7c450" />
 
 
    
