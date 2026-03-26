@@ -1,4 +1,4 @@
-I am Mariyappan from I-BCA-A 
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d139cde-8b5e-4242-b536-9db56485034a" />I am Mariyappan from I-BCA-A 
 1. Registration Form Demo -  https://mariyappan07102007-coder.github.io/front-end-development/registration%20form.html
    Preview:<img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/50ca5778-9250-44cc-b7d1-c116ecf9dc19" />
 
@@ -17,6 +17,11 @@ I am Mariyappan from I-BCA-A
 5.Navigation Bar with Dropdown -  https://mariyappan07102007-coder.github.io/front-end-development/navigationbar.html
 
    Preview: <img width="1919" height="1123" alt="image" src="https://github.com/user-attachments/assets/52b9565f-5623-43fe-9273-8fd63ba7c450" />
+6.CSS Hover Effects - https://mariyappan07102007-coder.github.io/front-end-development/css%20hover%20effects.html
+
+   Preview: <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/5dc1ac32-41be-4904-b13e-2180805c12e5" />
+
+
 
 
    
