@@ -21,6 +21,14 @@
 
    Preview: <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/5dc1ac32-41be-4904-b13e-2180805c12e5" />
 
+7.Form Validation -https://mariyappan07102007-coder.github.io/front-end-development/formvalidation.html
+
+   Preview: <img width="1913" height="1065" alt="image" src="https://github.com/user-attachments/assets/1e35177a-2ac5-4a88-8793-522b0a121036" />
+
+8.
+
+
+
 
 
 
